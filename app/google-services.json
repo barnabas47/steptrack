@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "961303297807",
+    "project_id": "steptrack-5ebd8",
+    "storage_bucket": "steptrack-5ebd8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961303297807:android:c41a1aef12af2ed0fcc87a",
+        "android_client_info": {
+          "package_name": "com.example.steptrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961303297807-shkosgavdl1j3e7kctkp7dt4of6u67u7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.steptrack",
+            "certificate_hash": "fc71d897b6c4251327eed22de2efa4ecde193ad6"
+          }
+        },
+        {
+          "client_id": "961303297807-ptthej1ir77qvl5ohok9tl9mgv7r9a2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChRRg25D6bn6tI4PfoNYZ0Kl8Odm0bTCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961303297807-ptthej1ir77qvl5ohok9tl9mgv7r9a2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

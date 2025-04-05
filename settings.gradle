@@ -1,0 +1,18 @@
+pluginManagement {
+    repositories {
+        google()  // Google repositories
+        mavenCentral()  // Maven Central repository
+        gradlePluginPortal()  // Plugin portal repository
+    }
+}
+
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS) // Prefers repositories defined in settings.gradle
+    repositories {
+        google()  // Google repository
+        mavenCentral()  // Maven Central repository
+    }
+}
+
+rootProject.name = "StepTrack"
+include ':app'
